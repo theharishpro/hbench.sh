@@ -242,7 +242,7 @@ install_speedtest() {
 }
 
 print_intro() {
-    echo "-------------------- A Benchmark Script By Divya for Square Brothers -------------------"
+    echo "-------------------- A Benchmark Script By Divya for hbench -------------------"
     echo " Version            : $(_green v2023.02SSSSSS)"
     echo " Usage              : $(_red "wget -qO- bench.sh | bash")"
 }
