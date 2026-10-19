@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Description: A Bench Script by thedivyapro
+# Description: A Bench Script by theharishpro
 #
 trap _exit INT QUIT TERM
 
