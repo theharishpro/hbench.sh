@@ -31,7 +31,7 @@ sudo pacman -S hbench.sh
 Download the Script:
 
 ```bash
-wget https://github.com/thedivyapro/hbench.sh/raw/main/hbench.sh
+wget https://github.com/theharishpro/hbench.sh/raw/main/hbench.sh
 ```
 Make the Script Executable:
 
